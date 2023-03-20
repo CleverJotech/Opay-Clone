@@ -1,0 +1,3 @@
+flutter_native_splash:
+  backgroundimage: asset/opay_icon.png
+  color: "235f55"
